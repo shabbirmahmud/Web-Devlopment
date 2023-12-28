@@ -1,0 +1,17 @@
+var price1=25,price2=36;
+total=price1+price2;
+console.log(total);
+total=price1-price2;
+console.log(total);
+total=price1*price2;
+console.log(total);
+total=price1/price2;
+console.log(total);
+total=price1%price2;
+console.log(total);
+price2++;
+console.log(price2);
+price2--;
+console.log(price2);
+var fname='Justin',lname='Beiber';
+console.log(fname+' '+lname);
